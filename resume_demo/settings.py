@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_^6n9(^&$^k(844$su%m2+gp+%+le81-z$07h$8x%cjo@ii$i6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','digital-resume-app.herokuapp.com/']
 
 
 # Application definition
